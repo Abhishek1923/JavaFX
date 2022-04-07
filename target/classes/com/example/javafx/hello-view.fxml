@@ -24,6 +24,7 @@
     <right>
         <Label  text="This label is right" alignment="center"/>
     </right>
+    
     <bottom>
         <HBox spacing="10" alignment="TOP_RIGHT">
             <padding>
